@@ -13,7 +13,7 @@
 
 - Ts. Phan The Duy - duypt@hcmuit.edu.vn
 
-**Description**:
+**Mô tả**:
 
 Các chương trình phần mềm (Compiler, Runtime engine, Constraint solver, Library,…) là những phần mềm nhận dữ liệu đầu vào gồm các ngôn ngữ lập trình hoặc ngôn ngữ hình thức. Những chương trình này đặc biệt quan trọng và là nền tảng để xây dựng và phát triển các hệ thống phần mềm.
 Chính vì vậy mà việc kiểm thử và đánh giá các phần mềm như thế này là một vấn đề cực kì quan trong. Một trong nhưng kĩ thuật kiểm thử đem lại nhiều hiệu quả và thành công trong việc tìm kiếm và phát hiện các lỗ hổng bảo mật là kĩ thuật kiểm thử Fuzzing.
